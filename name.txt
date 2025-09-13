@@ -5,7 +5,7 @@ name:
 3-
 4-Jonathan Rodriguez
 5-
-6-
+6- Maxwell Soler
 7- Abraham Korvah
 8-
 9-
